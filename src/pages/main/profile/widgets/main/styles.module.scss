@@ -1,7 +1,0 @@
-@import "src/app/styles";
-
-.wrapper {
-  @include box-size(100%, auto);
-  @include flex-column(flex-start,flex-start);
-  gap: 24px;
-}
